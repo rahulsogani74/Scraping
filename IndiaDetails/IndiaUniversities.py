@@ -1,3 +1,5 @@
+# https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+
 import requests
 import pandas as pd
 
